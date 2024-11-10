@@ -1,0 +1,15 @@
+created by mrinal/2elliti
+
+Dont take this file for education purpose this is just for my understanding.
+
+;*******************************;
+;     Part 2 Breakpoints.
+;*******************************;
+
+
+So we can create a breakopoint with the help of hardware( registers) or we can take help of software breakpoint(By editing running code).
+
+So we are using software break point to get ourself started, hardware do provide some additional features but we can only do 4 breakpoint at a time(might have to check).
+
+
+ok so now how do we update out ruunning program? ---->    PTRACE
